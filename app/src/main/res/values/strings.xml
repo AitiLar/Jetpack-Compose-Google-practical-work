@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LearningCompose</string>
+    <string name="content_item">Для автоматического извлечения строкового ресурса для каждой строки можно использовать функцию «Извлечь строковый ресурс», доступную в разделе «Контекстные действия» в Android Studio.</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="title_activity_two">TwoActivity</string>
+    <string name="placeholder_search">Search...</string>
+    <string name="ab1_inversions">Inversion</string>
+    <string name="fc2_nature_meditations">Nature meditations</string>
+    <string name="align_your_body">Align your body</string>
+    <string name="btn_nav_home">Home</string>
+    <string name="btn_nav_profile">Profile</string>
+</resources>
